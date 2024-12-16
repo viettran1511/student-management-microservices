@@ -1,0 +1,1 @@
+echo "# Registration Service"
